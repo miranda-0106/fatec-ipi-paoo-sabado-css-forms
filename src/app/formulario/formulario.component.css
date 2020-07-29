@@ -1,0 +1,36 @@
+.principal {
+    margin: 12px;
+    padding: 12px;
+}
+
+.container {
+    width: 1280px;
+    margin: auto;
+    text-align: center;
+}
+
+.rodape {
+    border-top: 1px solid #CCC;
+    border-bottom: 1px solid #CCC;
+    padding: 8px;
+    margin-top: 12px;
+    width: 50%;
+    display: inline-block;
+}
+
+.classeInscricao {
+    margin: 24px;
+    padding: 50px;
+    border: 1px solid #CCC;
+    border-radius: 8px;
+    width: 20%;
+    margin-left: 445px;
+}
+
+.cartao {
+    background-color: rgba(195, 0, 255, 0.349);
+    padding: 8px;
+    border: 'none';
+    border-radius: 4px;
+    display: inline-block;
+}
